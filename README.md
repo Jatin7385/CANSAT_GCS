@@ -1,4 +1,4 @@
-# SAMPLE-CANSAT-GCS
+# CANSAT-GCS
 Hey!!
 So this is a Sample CANSAT Ground Control System that I made using Javafx and SceneBuilder
 To read more about Cansat : http://cansatcompetition.com/
